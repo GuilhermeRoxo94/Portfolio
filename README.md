@@ -1,0 +1,1 @@
+Esse é um projeto que foi desenvolvido em curso da Alura com intuito de se desenvolver nas linguagens de HTML e CSS, projeto que foi desenvolvido em um total de 4 cursos, onde o principal objetivo era aprender a linguagem e desenvolver os códigos com boas práticas de programação.
